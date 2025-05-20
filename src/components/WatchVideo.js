@@ -8,25 +8,23 @@ const VideoLinks = () => {
       title: 'Pooja',
       url: 'https://youtu.be/yixiSxkoH2I?si=DnqyubLA3hNUeLnc',
     },
-    {
-        title: 'Temple Main Festival (2024)' ,
-        url: 'https://www.youtube.com/watch?v=NIiX-y6_Qvg',
-      },
+
     {
       title: 'Temple History Documentary- V6 News Channels (2017)',
       url: 'https://www.youtube.com/watch?v=mIpwuLmo_88',
       
     },
-    {
+
+ {
         title: 'Temple History Documentary- V6 News Channels (2025)',
         url: 'https://www.youtube.com/watch?v=TlEmQW7qGyQ',
         
       },
     {
-        title: 'Temple History Documentary-TV9 News Channels (2022) ',
-      
-        url:"https://www.youtube.com/watch?v=uL6GRYT7Nz0"
+        title: 'Temple Main Festival (2024)' ,
+        url: 'https://www.youtube.com/watch?v=NIiX-y6_Qvg',
       },
+   
       {
         title: 'Temple History Documentary- ETV Telangana News Channels (2024) ',
       
@@ -34,8 +32,6 @@ const VideoLinks = () => {
 
 
       },
-
-
 
       {
         title: 'Temple History Documentary- ETV Telangana News Channels (2024) ',
@@ -48,6 +44,12 @@ const VideoLinks = () => {
       
         url:"https://www.youtube.com/watch?v=JGDWA0P8-7U"
       },
+    {
+        title: 'Temple History Documentary-TV9 News Channels (2022) ',
+      
+        url:"https://www.youtube.com/watch?v=uL6GRYT7Nz0"
+      },
+        
   ];
 
   return (

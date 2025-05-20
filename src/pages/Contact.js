@@ -10,7 +10,7 @@ const Contact = () => {
       <h2><CiLocationOn className="contact-icon" size={24} />Contact & Location</h2>
 
       <p>
-        Mellacheruvu (Village & Mandal), 508246,suryapet district, Telangana, India
+       మేళ్లచెరువు (గ్రామం & మండలం), 508246, సూర్యాపేట జిల్లా, తెలంగాణ.
       </p>
 
       <p>
