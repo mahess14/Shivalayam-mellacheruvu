@@ -45,6 +45,7 @@ const Gallery = () => {
 
   return (
     <div className="gallery-container">
+        <audio src="/audio/Evaraki-evarayya.mp3" autoPlay loop />
       <h1 className="gallery-title">శివాలయం ఫోటోలు</h1>
       
       <div className="gallery-grid">

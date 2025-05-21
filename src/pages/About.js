@@ -4,6 +4,7 @@ import './About.css';
 const About = () => {
   return (
     <div className="about-container">
+       <audio src="/audio/Haraom-namasivaya.mp3" autoPlay loop />
       <div className="about-header">
         <h1>మేళ్లచెరువు శివాలయం</h1>
         <div className="divider"></div>
